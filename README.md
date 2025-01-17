@@ -30,4 +30,5 @@ Generative Text Models have various applications, including:
 
 These models have the potential to revolutionize the way we interact with language and generate content, but also raise concerns around authenticity, bias, and plagiarism.
 
-OUTPUT OF THE PROJECT:
+OUTPUT OF THE PROJECT:Generative-Text-Models-An-Introduction.pdf](https://github.com/user-attachments/files/18455599/Generative-Text-Models-An-Introduction.pdf)
+![Image](https://github.com/user-attachments/assets/ff30a828-7e75-44a1-b631-eff8caa0480e)
